@@ -1,2 +1,2 @@
 # Osterdatum
-Bitte mit Eclipse öffnen
+Osterdatum herausfinden (mit UI). Bitte mit Eclipse öffnen. 
